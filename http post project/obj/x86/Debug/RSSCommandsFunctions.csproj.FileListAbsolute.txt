@@ -1,0 +1,14 @@
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-RSS Commands\http post project\bin\Debug\RSSCommandsFunctions.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-RSS Commands\http post project\bin\Debug\RSSCommandsFunctions.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-RSS Commands\http post project\obj\x86\Debug\RSSCommandsFunctions.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-RSS Commands\http post project\obj\x86\Debug\RSSCommandsFunctions.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-RSS Commands\http post project\obj\x86\Debug\RSSCommandsFunctions.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-RSS Commands\http post project\obj\x86\Debug\RSSCommandsFunctions.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-RSS Commands\http post project\obj\x86\Debug\RSSCommandsFunctions.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\RSS Commands\http post project\bin\Debug\RSSCommandsFunctions.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\RSS Commands\http post project\bin\Debug\RSSCommandsFunctions.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\RSS Commands\http post project\obj\x86\Debug\RSSCommandsFunctions.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\RSS Commands\http post project\obj\x86\Debug\RSSCommandsFunctions.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\RSS Commands\http post project\obj\x86\Debug\RSSCommandsFunctions.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\RSS Commands\http post project\obj\x86\Debug\RSSCommandsFunctions.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\RSS Commands\http post project\obj\x86\Debug\RSSCommandsFunctions.pdb
